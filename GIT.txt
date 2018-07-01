@@ -1,0 +1,11 @@
+Comandos GIT
+
+Después de instalar GIT en la PC se configura (tambien se modifica con estos mismos comandos) el usuario y email:
+	git config --global user.name "nombredeusuario"
+	git config --global user.email "correoelectronico"
+
+Si deseamos ver los datos nombre y el correo configurados se usan los comandos
+	git config --global user.name
+
+aqui va otro commit
+	las las rosas son rojas
